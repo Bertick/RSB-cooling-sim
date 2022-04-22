@@ -1,7 +1,9 @@
 ## Resolved Sideband Cooling Simulation
 
 Code for simulation of resolved sideband cooling of two-level or multi-level
-particles trapped using optical dipole traps.
+particles trapped using optical dipole traps. The scientific pubblication associated
+to this work can be found here:
+[10.1103/PhysRevResearch.3.043106](https://doi.org/10.1103/PhysRevResearch.3.043106)
 
 Currently, only optical tweezers have been implemented.
 
@@ -16,4 +18,3 @@ tweezer.py.
 
 The chapter of my PhD thesis where the mathematics and physics of the model are
 explained is provided under the Docs folder.
-
